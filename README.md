@@ -1,2 +1,1 @@
-# Daniel-Data-Portfolio
-Business data analytics
+# Data-Driven Insights into the Data Analyst Profession
