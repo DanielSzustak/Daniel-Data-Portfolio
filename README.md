@@ -27,6 +27,16 @@ Tools and Technologies:
 
 > Pie chart illustrates the educational requirements for data analyst positions. A significant majority of job postings, over 26,700, necessitate a formal degree. Conversely, a smaller portion of roles, while still substantial, do not explicitly require a degree. This visualization highlights the growing trend of valuing skills and experience over traditional academic qualifications in the data analyst field.
 
+![screenshot](https://github.com/DanielSzustak/Daniel-Data-Portfolio/blob/main/images/dashboard%20salaries%20EXCEL%20365.png?raw=true)
+
+> This interactive dashboard provides insights into the global job market for data professionals. Users can filter by country and job title to explore average salaries for various data-related roles. The dashboard leverages data visualization techniques to present complex information in a clear and concise manner, enabling users to make informed career decisions.
+
+
+
+
+
+
+
 
 
 
