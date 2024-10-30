@@ -1,8 +1,6 @@
-# Data-Driven Insights into the Data Analyst Profession
+## I have analyzed data and created insightful dashboards to drive business decisions.
 
-# This repository showcases my work in business data analytics. I've analyzed data and created insightful dashboards to drive business decisions.
-
-## 1. Scapped, cleaned, sorted and analyzed data job postings to find trend
+## 1. # Scrapped, cleaned, sorted and analyzed data job postings to find trend
 
 Scrapped data jobs postings from various websites including indeed, linkedin etc.
 
