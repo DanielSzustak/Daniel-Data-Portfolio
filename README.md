@@ -1,6 +1,6 @@
 ## I have analyzed data and created insightful dashboards to drive business decisions.
 
-## 1. # Scrapped, cleaned, sorted and analyzed data job postings to find trend
+## 1. # Scrapped, cleaned, sorted and analyzed data job postings to find different trends
 
 Scrapped data jobs postings from various websites including indeed, linkedin etc.
 
