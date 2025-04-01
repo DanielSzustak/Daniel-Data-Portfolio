@@ -15,7 +15,7 @@ Tools and Technologies:
 * Tableau
 * Google Data Studio
 
-## 1. Scrapped, cleaned, sorted and analyzed data job postings to find different trends
+## Scrapped, cleaned, sorted and analyzed data job postings to find different trends
 
 
 ![screenshot](https://github.com/user-attachments/assets/9a496ccc-5fbb-4710-8539-3b1f623ecce8)
@@ -33,11 +33,7 @@ Tools and Technologies:
 - Peak in August: The line representing the moving average would be highest around August, indicating that more job postings were available during this period.
 - Dip at the end of the year: The line would gradually decline towards the end of the year, suggesting a decrease in job postings.
 - Weekend Dips: The line would dip slightly every weekend, reflecting the reduced activity in the job market during these days.
-> This visual representation helps us understand the overall job market trend throughout the year, identifying peak and low periods, as well as the impact of weekends on job posting activity.
 
-![screenshot](https://github.com/DanielSzustak/Daniel-Data-Portfolio/blob/main/images/degree%20requirement.png?raw=true)
-
-> Pie chart illustrates the educational requirements for data analyst positions. A significant majority of job postings, over 26,700, necessitate a formal degree. Conversely, a smaller portion of roles, while still substantial, do not explicitly require a degree. This visualization highlights the growing trend of valuing skills and experience over traditional academic qualifications in the data analyst field.
 
 ![screenshot](https://github.com/DanielSzustak/Daniel-Data-Portfolio/blob/main/images/dashboard%20salaries%20EXCEL%20365.png?raw=true)
 
